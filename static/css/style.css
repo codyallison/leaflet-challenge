@@ -7,4 +7,17 @@ body {
 body,
 html {
   height: 100%;
-}
+}.legend { 
+        border: 3px solid black;
+        font-weight: bold;
+        text-align: center;
+        width: 150px;
+        line-height: 18px;
+        background: white;
+        opacity: 1;
+    }
+ul {
+        display: block;
+        margin: 1px;
+        padding: 0;
+    }
